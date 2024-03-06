@@ -47,9 +47,6 @@ namespace BackendLab01.Pages
             }
         }
 
-        [BindProperty]
-        public int CorrectAnswers { get; set; }
-
         public IActionResult OnPost()
         {
             var quiz = _userService.FindQuizById(QuizId);
