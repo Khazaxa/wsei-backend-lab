@@ -1,6 +1,7 @@
-﻿using ApplicationCore.Interfaces.Repository;
+﻿using ApplicationCore.Commons.Repository;
+using ApplicationCore.Models.QuizAggregate;
 
-namespace BackendLab01;
+namespace ApplicationCore.Models;
 
 public class QuizItemUserAnswer: IIdentity<string>
 {

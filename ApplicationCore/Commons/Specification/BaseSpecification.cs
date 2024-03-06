@@ -1,6 +1,6 @@
 ﻿using System.Linq.Expressions;
 
-namespace ApplicationCore.Interfaces.Criteria;
+namespace ApplicationCore.Commons.Specification;
 
 public class BaseSpecification<T>: ISpecification<T>
 {

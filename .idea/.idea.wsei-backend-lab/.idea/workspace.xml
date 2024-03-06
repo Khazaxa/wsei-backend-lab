@@ -8,14 +8,60 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af9fe208-5e2f-4a7a-9f41-c6460720d5f2" name="Changes" comment="add Quiz and route to Summary">
+    <list default="true" id="af9fe208-5e2f-4a7a-9f41-c6460720d5f2" name="Changes" comment="clean">
+      <change afterPath="$PROJECT_DIR$/Web/Pages/Quiz/QuizList.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web/Pages/Quiz/QuizList.cshtml.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.wsei-backend-lab/.idea/copilot/chatSessions/00000000000.xd" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.wsei-backend-lab/.idea/copilot/chatSessions/00000000000.xd" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.wsei-backend-lab/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.wsei-backend-lab/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApplicationCore/Commons/Repository/IGenericRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ApplicationCore/Commons/Repository/IGenericRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApplicationCore/Commons/Repository/IIdentity.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ApplicationCore/Commons/Repository/IIdentity.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApplicationCore/Commons/Specification/BaseSpecification.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ApplicationCore/Commons/Specification/BaseSpecification.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApplicationCore/Commons/Specification/ISpecification.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ApplicationCore/Commons/Specification/ISpecification.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApplicationCore/Interfaces/AdminService/IQuizAdminService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ApplicationCore/Interfaces/AdminService/IQuizAdminService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApplicationCore/Interfaces/AdminService/QuizAdminService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ApplicationCore/Interfaces/AdminService/QuizAdminService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApplicationCore/Interfaces/UserService/IQuizUserService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ApplicationCore/Interfaces/UserService/IQuizUserService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApplicationCore/Interfaces/UserService/QuizUserService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ApplicationCore/Interfaces/UserService/QuizUserService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApplicationCore/Models/QuizAggregate/Quiz.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ApplicationCore/Models/QuizAggregate/Quiz.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApplicationCore/Models/QuizAggregate/QuizItem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ApplicationCore/Models/QuizAggregate/QuizItem.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApplicationCore/Models/QuizItemUserAnswer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ApplicationCore/Models/QuizItemUserAnswer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApplicationCore/Models/User.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ApplicationCore/Models/User.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApplicationCore/Specifications/QuizItemByQuestion.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ApplicationCore/Specifications/QuizItemByQuestion.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApplicationCore/Specifications/QuizItemsForQuizIdFilledByUser.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ApplicationCore/Specifications/QuizItemsForQuizIdFilledByUser.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApplicationCore/bin/Debug/net7.0/ApplicationCore.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ApplicationCore/bin/Debug/net7.0/ApplicationCore.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApplicationCore/bin/Debug/net7.0/ApplicationCore.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ApplicationCore/bin/Debug/net7.0/ApplicationCore.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApplicationCore/obj/Debug/net7.0/ApplicationCore.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ApplicationCore/obj/Debug/net7.0/ApplicationCore.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApplicationCore/obj/Debug/net7.0/ApplicationCore.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ApplicationCore/obj/Debug/net7.0/ApplicationCore.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApplicationCore/obj/Debug/net7.0/ref/ApplicationCore.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ApplicationCore/obj/Debug/net7.0/ref/ApplicationCore.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApplicationCore/obj/Debug/net7.0/refint/ApplicationCore.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ApplicationCore/obj/Debug/net7.0/refint/ApplicationCore.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Infrastructure/EF/EFSpecificationEvaluator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/EF/EFSpecificationEvaluator.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Infrastructure/Memory/Generators/IGenericGenerator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/Memory/Generators/IGenericGenerator.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Infrastructure/Memory/Generators/IntGenerator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/Memory/Generators/IntGenerator.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Infrastructure/Memory/MemorySpecificationEvaluator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/Memory/MemorySpecificationEvaluator.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Infrastructure/Memory/Repositories/MemoryGenericRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/Memory/Repositories/MemoryGenericRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Infrastructure/bin/Debug/net7.0/ApplicationCore.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/bin/Debug/net7.0/ApplicationCore.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Infrastructure/bin/Debug/net7.0/ApplicationCore.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/bin/Debug/net7.0/ApplicationCore.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Infrastructure/bin/Debug/net7.0/Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/bin/Debug/net7.0/Infrastructure.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Infrastructure/bin/Debug/net7.0/Infrastructure.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/bin/Debug/net7.0/Infrastructure.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Infrastructure/obj/Debug/net7.0/Infrastructure.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/obj/Debug/net7.0/Infrastructure.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Infrastructure/obj/Debug/net7.0/Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/obj/Debug/net7.0/Infrastructure.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Infrastructure/obj/Debug/net7.0/Infrastructure.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/obj/Debug/net7.0/Infrastructure.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Infrastructure/obj/Debug/net7.0/ref/Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/obj/Debug/net7.0/ref/Infrastructure.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Infrastructure/obj/Debug/net7.0/refint/Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/obj/Debug/net7.0/refint/Infrastructure.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnitTest/GenericRepositoryTest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UnitTest/GenericRepositoryTest.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnitTest/MemoryQuizServiceTest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UnitTest/MemoryQuizServiceTest.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnitTest/obj/Debug/net7.0/UnitTest.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UnitTest/obj/Debug/net7.0/UnitTest.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/Pages/Error.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Web/Pages/Error.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/Pages/Index.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Web/Pages/Index.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/Pages/Privacy.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Web/Pages/Privacy.cshtml.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Web/Pages/Quiz/Item.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Web/Pages/Quiz/Item.cshtml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web/Pages/Quiz/Summary.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Web/Pages/Quiz/Summary.cshtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Web/Pages/Quiz/Summary.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Web/Pages/Quiz/Summary.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Web/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/SeedData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Web/SeedData.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Web/bin/Debug/net7.0/Web.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Web/bin/Debug/net7.0/Web.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Web/bin/Debug/net7.0/Web.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Web/bin/Debug/net7.0/Web.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/obj/Debug/net7.0/Web.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Web/obj/Debug/net7.0/Web.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/obj/Debug/net7.0/Web.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Web/obj/Debug/net7.0/Web.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/obj/Debug/net7.0/Web.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Web/obj/Debug/net7.0/Web.csproj.CoreCompileInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Web/obj/Debug/net7.0/Web.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Web/obj/Debug/net7.0/Web.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Web/obj/Debug/net7.0/Web.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Web/obj/Debug/net7.0/Web.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Web/obj/Debug/net7.0/ref/Web.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Web/obj/Debug/net7.0/ref/Web.dll" afterDir="false" />
@@ -37,7 +83,13 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="mock://D:/RiderSolutions/wsei-backend-lab/Web/Pages/Quiz/Item.cshtml.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/RiderSolutions/wsei-backend-lab/Web/Pages/Quiz/Item.cshtml.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/RiderSolutions/wsei-backend-lab/Web/Pages/Quiz/Item.cshtml.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/RiderSolutions/wsei-backend-lab/Web/Pages/Quiz/Item.cshtml.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/RiderSolutions/wsei-backend-lab/Web/Pages/Quiz/Item.cshtml.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://D:/RiderSolutions/wsei-backend-lab/Web/SeedData.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Web/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Web/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Web/wwwroot/lib/jquery/dist/jquery.min.map" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
@@ -117,7 +169,7 @@
       <workItem from="1709716048898" duration="32000" />
       <workItem from="1709716099983" duration="307000" />
       <workItem from="1709757216061" duration="61000" />
-      <workItem from="1709759120521" duration="2961000" />
+      <workItem from="1709759120521" duration="6111000" />
     </task>
     <task id="LOCAL-00001" summary="register singletons">
       <option name="closed" value="true" />
@@ -135,7 +187,23 @@
       <option name="project" value="LOCAL" />
       <updated>1709761631932</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="insert into Summary">
+      <option name="closed" value="true" />
+      <created>1709762486904</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1709762486904</updated>
+    </task>
+    <task id="LOCAL-00004" summary="clean">
+      <option name="closed" value="true" />
+      <created>1709763102619</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1709763102619</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,6 +238,8 @@
     <MESSAGE value="Merge remote-tracking branch 'origin/lab-01' into lab-01" />
     <MESSAGE value="register singletons" />
     <MESSAGE value="add Quiz and route to Summary" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Quiz and route to Summary" />
+    <MESSAGE value="insert into Summary" />
+    <MESSAGE value="clean" />
+    <option name="LAST_COMMIT_MESSAGE" value="clean" />
   </component>
 </project>

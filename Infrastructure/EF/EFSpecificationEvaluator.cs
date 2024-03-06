@@ -1,8 +1,7 @@
-﻿using ApplicationCore.Interfaces.Criteria;
-using System.Linq;
+﻿using ApplicationCore.Commons.Specification;
 using Microsoft.EntityFrameworkCore;
 
-namespace Infrastructure;
+namespace Infrastructure.EF;
 
 public class EFSpecificationEvaluator<TEntity> where TEntity : class
 {

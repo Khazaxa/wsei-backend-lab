@@ -1,4 +1,4 @@
-﻿using ApplicationCore.Interfaces.Criteria;
+﻿using ApplicationCore.Commons.Specification;
 
 namespace Infrastructure.Memory;
 

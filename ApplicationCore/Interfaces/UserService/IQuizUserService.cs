@@ -1,6 +1,7 @@
-﻿using ApplicationCore.Interfaces.Repository;
+﻿using ApplicationCore.Models;
+using ApplicationCore.Models.QuizAggregate;
 
-namespace BackendLab01;
+namespace ApplicationCore.Interfaces.UserService;
 
 public interface IQuizUserService
 {

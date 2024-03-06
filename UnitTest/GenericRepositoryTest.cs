@@ -1,8 +1,8 @@
-﻿using ApplicationCore.Interfaces.Criteria;
-using BackendLab01;
-using ApplicationCore.Interfaces.Repository;
-using Infrastructure.Memory;
-using Infrastructure.Memory.Repository;
+﻿using ApplicationCore.Commons.Repository;
+using ApplicationCore.Models.QuizAggregate;
+using ApplicationCore.Specifications;
+using Infrastructure.Memory.Generators;
+using Infrastructure.Memory.Repositories;
 
 namespace UnitTest;
 

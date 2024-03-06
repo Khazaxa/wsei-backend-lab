@@ -1,8 +1,8 @@
+using ApplicationCore.Interfaces.UserService;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-using Microsoft.CodeAnalysis.Elfie.Serialization;
 
-namespace BackendLab01.Pages
+namespace Web.Pages.Quiz
 {
     
     public class QuizModel : PageModel
