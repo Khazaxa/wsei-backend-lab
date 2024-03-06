@@ -1,0 +1,11 @@
+D:\RiderSolutions\wsei-backend-lab\ApplicationCore\bin\Debug\net7.0\ApplicationCore.deps.json
+D:\RiderSolutions\wsei-backend-lab\ApplicationCore\bin\Debug\net7.0\ApplicationCore.dll
+D:\RiderSolutions\wsei-backend-lab\ApplicationCore\bin\Debug\net7.0\ApplicationCore.pdb
+D:\RiderSolutions\wsei-backend-lab\ApplicationCore\obj\Debug\net7.0\ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\RiderSolutions\wsei-backend-lab\ApplicationCore\obj\Debug\net7.0\ApplicationCore.AssemblyInfoInputs.cache
+D:\RiderSolutions\wsei-backend-lab\ApplicationCore\obj\Debug\net7.0\ApplicationCore.AssemblyInfo.cs
+D:\RiderSolutions\wsei-backend-lab\ApplicationCore\obj\Debug\net7.0\ApplicationCore.csproj.CoreCompileInputs.cache
+D:\RiderSolutions\wsei-backend-lab\ApplicationCore\obj\Debug\net7.0\ApplicationCore.dll
+D:\RiderSolutions\wsei-backend-lab\ApplicationCore\obj\Debug\net7.0\refint\ApplicationCore.dll
+D:\RiderSolutions\wsei-backend-lab\ApplicationCore\obj\Debug\net7.0\ApplicationCore.pdb
+D:\RiderSolutions\wsei-backend-lab\ApplicationCore\obj\Debug\net7.0\ref\ApplicationCore.dll

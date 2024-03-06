@@ -34,19 +34,33 @@ namespace BackendLab01.Pages
             QuizId = quizId;
             ItemId = itemId;
             var quiz = _userService.FindQuizById(quizId);
-            var quizItem = quiz?.Items[itemId - 1];
-            Question = quizItem?.Question;
-            Answers = new List<string>();
-            if (quizItem is not null)
+            if (itemId > 0 && itemId <= quiz?.Items.Count)
             {
-                Answers.AddRange(quizItem?.IncorrectAnswers);
-                Answers.Add(quizItem?.CorrectAnswer);
+                var quizItem = quiz?.Items[itemId - 1];
+                Question = quizItem?.Question;
+                Answers = new List<string>();
+                if (quizItem is not null)
+                {
+                    Answers.AddRange(quizItem?.IncorrectAnswers);
+                    Answers.Add(quizItem?.CorrectAnswer);
+                }
             }
         }
 
+        [BindProperty]
+        public int CorrectAnswers { get; set; }
+
         public IActionResult OnPost()
         {
-            return RedirectToPage("Item", new {quizId = QuizId, itemId = ItemId + 1});
+            var quiz = _userService.FindQuizById(QuizId);
+            if (ItemId == quiz?.Items.Count)
+            {
+                return RedirectToPage("./Summary", new { quizId = QuizId, itemId = ItemId, correctAnswers = CorrectAnswers, totalQuestions = quiz?.Items.Count });
+            }
+            else
+            {
+                return RedirectToPage("Item", new {quizId = QuizId, itemId = ItemId + 1});
+            }
         }
     }
 }
