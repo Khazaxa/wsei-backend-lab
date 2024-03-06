@@ -8,13 +8,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af9fe208-5e2f-4a7a-9f41-c6460720d5f2" name="Changes" comment="register singletons">
+    <list default="true" id="af9fe208-5e2f-4a7a-9f41-c6460720d5f2" name="Changes" comment="add Quiz and route to Summary">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.wsei-backend-lab/.idea/copilot/chatSessions/00000000000.xd" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.wsei-backend-lab/.idea/copilot/chatSessions/00000000000.xd" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.wsei-backend-lab/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.wsei-backend-lab/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Infrastructure/obj/Debug/net7.0/Infrastructure.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/obj/Debug/net7.0/Infrastructure.csproj.AssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Web/Pages/Quiz/Item.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Web/Pages/Quiz/Item.cshtml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web/SeedData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Web/SeedData.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web/obj/Debug/net7.0/Web.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Web/obj/Debug/net7.0/Web.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/Pages/Quiz/Summary.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Web/Pages/Quiz/Summary.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/Pages/Quiz/Summary.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Web/Pages/Quiz/Summary.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/bin/Debug/net7.0/Web.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Web/bin/Debug/net7.0/Web.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/bin/Debug/net7.0/Web.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Web/bin/Debug/net7.0/Web.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/obj/Debug/net7.0/Web.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Web/obj/Debug/net7.0/Web.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/obj/Debug/net7.0/Web.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Web/obj/Debug/net7.0/Web.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/obj/Debug/net7.0/ref/Web.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Web/obj/Debug/net7.0/ref/Web.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/obj/Debug/net7.0/refint/Web.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Web/obj/Debug/net7.0/refint/Web.dll" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +27,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="dev" />
@@ -30,6 +36,8 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="mock://D:/RiderSolutions/wsei-backend-lab/Web/Pages/Quiz/Item.cshtml.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/RiderSolutions/wsei-backend-lab/Web/SeedData.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Web/wwwroot/lib/jquery/dist/jquery.min.map" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
@@ -109,7 +117,7 @@
       <workItem from="1709716048898" duration="32000" />
       <workItem from="1709716099983" duration="307000" />
       <workItem from="1709757216061" duration="61000" />
-      <workItem from="1709759120521" duration="2311000" />
+      <workItem from="1709759120521" duration="2961000" />
     </task>
     <task id="LOCAL-00001" summary="register singletons">
       <option name="closed" value="true" />
@@ -119,7 +127,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709759404698</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add Quiz and route to Summary">
+      <option name="closed" value="true" />
+      <created>1709761631932</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709761631932</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,6 +169,7 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Merge remote-tracking branch 'origin/lab-01' into lab-01" />
     <MESSAGE value="register singletons" />
-    <option name="LAST_COMMIT_MESSAGE" value="register singletons" />
+    <MESSAGE value="add Quiz and route to Summary" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Quiz and route to Summary" />
   </component>
 </project>

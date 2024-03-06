@@ -53,9 +53,19 @@ namespace BackendLab01.Pages
         public IActionResult OnPost()
         {
             var quiz = _userService.FindQuizById(QuizId);
+            var quizItem = quiz?.Items[ItemId - 1];
+            if (quizItem?.CorrectAnswer == UserAnswer)
+            {
+                var correctAnswers = HttpContext.Session.GetInt32("CorrectAnswers") ?? 0;
+                correctAnswers++;
+                HttpContext.Session.SetInt32("CorrectAnswers", correctAnswers);
+            }
+
             if (ItemId == quiz?.Items.Count)
             {
-                return RedirectToPage("./Summary", new { quizId = QuizId, itemId = ItemId, correctAnswers = CorrectAnswers, totalQuestions = quiz?.Items.Count });
+                var correctAnswers = HttpContext.Session.GetInt32("CorrectAnswers") ?? 0;
+                HttpContext.Session.Remove("CorrectAnswers");
+                return RedirectToPage("./Summary", new { quizId = QuizId, itemId = ItemId, correctAnswers = correctAnswers, totalQuestions = quiz?.Items.Count });
             }
             else
             {

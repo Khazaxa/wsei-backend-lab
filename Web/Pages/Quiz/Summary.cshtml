@@ -1,8 +1,10 @@
 ﻿@page "{quizId}/{itemId}"
 @model BackendLab01.Pages.Summary
 @{
-    ViewData["Title"] = "summary";
+    ViewData["Title"] = "Summary";
     Layout = "~/Pages/Shared/_Layout.cshtml";
 }
 
-<H3>@ViewData["Title"]</H3>
+<h1>Summary</h1>
+<p>You answered correctly on @Model.CorrectAnswers out of @Model.TotalQuestions questions.</p>
+<p>Your score is @Model.Percentage%.</p>
