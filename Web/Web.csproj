@@ -4,7 +4,7 @@
         <TargetFramework>net7.0</TargetFramework>
         <Nullable>enable</Nullable>
         <ImplicitUsings>enable</ImplicitUsings>
-        <RootNamespace>BackendLab01</RootNamespace>
+        <RootNamespace>Web</RootNamespace>
     </PropertyGroup>
 
     <ItemGroup>
