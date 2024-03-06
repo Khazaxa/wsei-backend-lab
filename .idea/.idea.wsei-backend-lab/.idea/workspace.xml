@@ -5,51 +5,47 @@
     <projectFile profileName="https">Web/Web.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af9fe208-5e2f-4a7a-9f41-c6460720d5f2" name="Changes" comment="">
+    <list default="true" id="af9fe208-5e2f-4a7a-9f41-c6460720d5f2" name="Changes" comment="Merge remote-tracking branch 'origin/lab-01' into lab-01">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.wsei-backend-lab/.idea/copilot/chatSessions/00000000000.xd" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.wsei-backend-lab/.idea/copilot/chatSessions/00000000000.xd" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.wsei-backend-lab/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.wsei-backend-lab/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ApplicationCore/obj/ApplicationCore.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ApplicationCore/obj/ApplicationCore.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationCore/obj/ApplicationCore.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/ApplicationCore/obj/ApplicationCore.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationCore/obj/Debug/net7.0/ApplicationCore.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ApplicationCore/obj/Debug/net7.0/ApplicationCore.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ApplicationCore/obj/Debug/net7.0/ApplicationCore.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ApplicationCore/obj/Debug/net7.0/ApplicationCore.AssemblyInfoInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ApplicationCore/obj/Debug/net7.0/ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ApplicationCore/obj/Debug/net7.0/ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ApplicationCore/obj/Debug/net7.0/ApplicationCore.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ApplicationCore/obj/Debug/net7.0/ApplicationCore.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ApplicationCore/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ApplicationCore/obj/project.assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ApplicationCore/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ApplicationCore/obj/project.nuget.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ApplicationCore/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ApplicationCore/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApplicationCore/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/ApplicationCore/obj/rider.project.model.nuget.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ApplicationCore/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/ApplicationCore/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Infrastructure/obj/Debug/net7.0/Infrastructure.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/obj/Debug/net7.0/Infrastructure.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Infrastructure/obj/Debug/net7.0/Infrastructure.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/obj/Debug/net7.0/Infrastructure.AssemblyInfoInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Infrastructure/obj/Debug/net7.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/obj/Debug/net7.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Infrastructure/obj/Debug/net7.0/Infrastructure.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/obj/Debug/net7.0/Infrastructure.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Infrastructure/obj/Debug/net7.0/Infrastructure.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/obj/Debug/net7.0/Infrastructure.csproj.AssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Infrastructure/obj/Infrastructure.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/obj/Infrastructure.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Infrastructure/obj/Infrastructure.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/obj/Infrastructure.csproj.nuget.g.props" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Infrastructure/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/obj/project.assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Infrastructure/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/obj/project.nuget.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Infrastructure/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Infrastructure/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/obj/rider.project.model.nuget.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Infrastructure/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnitTest/bin/Debug/net7.0/CoverletSourceRootsMapping" beforeDir="false" afterPath="$PROJECT_DIR$/UnitTest/bin/Debug/net7.0/CoverletSourceRootsMapping" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnitTest/obj/Debug/net7.0/UnitTest.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UnitTest/obj/Debug/net7.0/UnitTest.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UnitTest/obj/Debug/net7.0/UnitTest.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UnitTest/obj/Debug/net7.0/UnitTest.AssemblyInfoInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UnitTest/obj/Debug/net7.0/UnitTest.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/UnitTest/obj/Debug/net7.0/UnitTest.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UnitTest/obj/Debug/net7.0/UnitTest.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UnitTest/obj/Debug/net7.0/UnitTest.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnitTest/obj/Debug/net7.0/UnitTest.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UnitTest/obj/Debug/net7.0/UnitTest.csproj.AssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UnitTest/obj/UnitTest.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/UnitTest/obj/UnitTest.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnitTest/obj/UnitTest.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/UnitTest/obj/UnitTest.csproj.nuget.g.props" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UnitTest/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/UnitTest/obj/project.assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UnitTest/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UnitTest/obj/project.nuget.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UnitTest/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/UnitTest/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnitTest/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/UnitTest/obj/rider.project.model.nuget.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UnitTest/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/UnitTest/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web/obj/Debug/net7.0/Web.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Web/obj/Debug/net7.0/Web.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Web/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Web/obj/Debug/net7.0/Web.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Web/obj/Debug/net7.0/Web.AssemblyInfoInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Web/obj/Debug/net7.0/Web.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Web/obj/Debug/net7.0/Web.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/obj/Debug/net7.0/Web.RazorAssemblyInfo.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Web/obj/Debug/net7.0/Web.RazorAssemblyInfo.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/obj/Debug/net7.0/Web.RazorAssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Web/obj/Debug/net7.0/Web.RazorAssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Web/obj/Debug/net7.0/Web.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Web/obj/Debug/net7.0/Web.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web/obj/Debug/net7.0/Web.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Web/obj/Debug/net7.0/Web.csproj.AssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Web/obj/Web.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Web/obj/Web.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web/obj/Web.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Web/obj/Web.csproj.nuget.g.props" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Web/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Web/obj/project.assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Web/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Web/obj/project.nuget.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Web/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Web/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Web/obj/rider.project.model.nuget.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Web/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Web/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,15 +54,20 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="dev" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="mock://D:/Users/jakub.korban/Documents/GitHub/PROG.BACK/wsei-backend-lab/ApplicationCore/Models/QuizItemUserAnswer.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2dJAXRAI6CVWKyzNzJjh58B2o69" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -78,7 +79,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "lab-01",
+    "git-widget-placeholder": "prod",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -89,9 +90,9 @@
   },
   "keyToStringList": {
     "rider.external.source.directories": [
-      "D:\\Users\\jakub.korban\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\DecompilerCache",
-      "D:\\Users\\jakub.korban\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\SourcesCache",
-      "D:\\Users\\jakub.korban\\AppData\\Local\\Symbols\\src"
+      "C:\\Users\\Kobbe\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\DecompilerCache",
+      "C:\\Users\\Kobbe\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\SourcesCache",
+      "C:\\Users\\Kobbe\\AppData\\Local\\Symbols\\src"
     ]
   }
 }]]></component>
@@ -139,6 +140,7 @@
       <workItem from="1709716048898" duration="32000" />
       <workItem from="1709716099983" duration="307000" />
       <workItem from="1709757216061" duration="61000" />
+      <workItem from="1709759120521" duration="226000" />
     </task>
     <servers />
   </component>
@@ -146,7 +148,20 @@
     <option name="version" value="3" />
   </component>
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/lab-01' into lab-01" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/lab-01' into lab-01" />
   </component>
 </project>

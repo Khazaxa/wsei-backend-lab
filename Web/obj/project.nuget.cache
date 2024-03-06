@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "+J+HZ6Uo0lTctLe9Kamnjxv7/ErvSYLabB887GkepBnbqRssTqTvkAvm3IN8DW0lD0evGBbotVGjz2LTbXcubQ==",
+  "dgSpecHash": "ia38uEDHrt6mxz1/J7hzW208NgQCi63jwyqzYIxKCJduGQPmGr+3fXqxFKyPKK1IMYn9Os8o/v+nQnkGALX5xQ==",
   "success": true,
   "projectFilePath": "D:\\RiderSolutions\\wsei-backend-lab\\Web\\Web.csproj",
   "expectedPackageFiles": [
@@ -157,11 +157,7 @@
     "C:\\Users\\Kobbe\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\Kobbe\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
     "C:\\Users\\Kobbe\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
-    "C:\\Users\\Kobbe\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\Kobbe\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\Kobbe\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\Kobbe\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\Kobbe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+    "C:\\Users\\Kobbe\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }
