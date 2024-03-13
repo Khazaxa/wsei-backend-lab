@@ -1,0 +1,24 @@
+<changelist name="Uncommitted_changes_before_Merge_at_13_03_2024_10_39_[Changes]" date="1710322746738" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/.idea.wsei-backend-lab/.idea/shelf/Uncommitted_changes_before_Merge_at_13_03_2024_10_39_[Changes]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Merge at 13.03.2024 10:39 [Changes]" />
+  <binary>
+    <option name="BEFORE_PATH" value="ApplicationCore/obj/Debug/net7.0/ApplicationCore.AssemblyInfoInputs.cache" />
+    <option name="AFTER_PATH" value="ApplicationCore/obj/Debug/net7.0/ApplicationCore.AssemblyInfoInputs.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.wsei-backend-lab/.idea/shelf/Uncommitted_changes_before_Merge_at_13_03_2024_10_39_[Changes]/ApplicationCore.AssemblyInfoInputs.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Infrastructure/obj/Debug/net7.0/Infrastructure.AssemblyInfoInputs.cache" />
+    <option name="AFTER_PATH" value="Infrastructure/obj/Debug/net7.0/Infrastructure.AssemblyInfoInputs.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.wsei-backend-lab/.idea/shelf/Uncommitted_changes_before_Merge_at_13_03_2024_10_39_[Changes]/Infrastructure.AssemblyInfoInputs.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Web/obj/Debug/net7.0/Web.AssemblyInfoInputs.cache" />
+    <option name="AFTER_PATH" value="Web/obj/Debug/net7.0/Web.AssemblyInfoInputs.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.wsei-backend-lab/.idea/shelf/Uncommitted_changes_before_Merge_at_13_03_2024_10_39_[Changes]/Web.AssemblyInfoInputs.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="UnitTest/obj/Debug/net7.0/UnitTest.AssemblyInfoInputs.cache" />
+    <option name="AFTER_PATH" value="UnitTest/obj/Debug/net7.0/UnitTest.AssemblyInfoInputs.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.wsei-backend-lab/.idea/shelf/Uncommitted_changes_before_Merge_at_13_03_2024_10_39_[Changes]/UnitTest.AssemblyInfoInputs.cache" />
+  </binary>
+</changelist>

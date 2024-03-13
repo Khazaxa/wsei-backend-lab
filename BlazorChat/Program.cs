@@ -1,4 +1,5 @@
 using BlazorChat.Data;
+using BlazorChat.Services;
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Web;
 
@@ -14,6 +15,7 @@ namespace BlazorChat
             builder.Services.AddRazorPages();
             builder.Services.AddServerSideBlazor();
             builder.Services.AddSingleton<WeatherForecastService>();
+            builder.Services.AddSingleton<UserService>();
 
             var app = builder.Build();
 
