@@ -16,5 +16,5 @@ public interface IGenericRepository<T, K> where T: IIdentity<K> where K : ICompa
     
     void Update(K id, T o);
     
-    IEnumerable<T> FindBySpecification(ISpecification<T> specification => null);
+    IEnumerable<T> FindBySpecification(ISpecification<T> specification);
 }
