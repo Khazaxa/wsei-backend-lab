@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "D:\\RiderSolutions\\wsei-backend-lab\\UnitTest\\UnitTest.csproj": {}
+    "D:\\Users\\jakub.korban\\Documents\\GitHub\\PROG.BACK\\wsei-backend-lab\\UnitTest\\UnitTest.csproj": {}
   },
   "projects": {
-    "D:\\RiderSolutions\\wsei-backend-lab\\ApplicationCore\\ApplicationCore.csproj": {
+    "D:\\Users\\jakub.korban\\Documents\\GitHub\\PROG.BACK\\wsei-backend-lab\\ApplicationCore\\ApplicationCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\RiderSolutions\\wsei-backend-lab\\ApplicationCore\\ApplicationCore.csproj",
+        "projectUniqueName": "D:\\Users\\jakub.korban\\Documents\\GitHub\\PROG.BACK\\wsei-backend-lab\\ApplicationCore\\ApplicationCore.csproj",
         "projectName": "ApplicationCore",
-        "projectPath": "D:\\RiderSolutions\\wsei-backend-lab\\ApplicationCore\\ApplicationCore.csproj",
-        "packagesPath": "C:\\Users\\Kobbe\\.nuget\\packages\\",
-        "outputPath": "D:\\RiderSolutions\\wsei-backend-lab\\ApplicationCore\\obj\\",
+        "projectPath": "D:\\Users\\jakub.korban\\Documents\\GitHub\\PROG.BACK\\wsei-backend-lab\\ApplicationCore\\ApplicationCore.csproj",
+        "packagesPath": "D:\\Users\\jakub.korban\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\jakub.korban\\Documents\\GitHub\\PROG.BACK\\wsei-backend-lab\\ApplicationCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Kobbe\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "D:\\Users\\jakub.korban\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -32,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -53,34 +60,36 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.406\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\RiderSolutions\\wsei-backend-lab\\Infrastructure\\Infrastructure.csproj": {
+    "D:\\Users\\jakub.korban\\Documents\\GitHub\\PROG.BACK\\wsei-backend-lab\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\RiderSolutions\\wsei-backend-lab\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "D:\\Users\\jakub.korban\\Documents\\GitHub\\PROG.BACK\\wsei-backend-lab\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "D:\\RiderSolutions\\wsei-backend-lab\\Infrastructure\\Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\Kobbe\\.nuget\\packages\\",
-        "outputPath": "D:\\RiderSolutions\\wsei-backend-lab\\Infrastructure\\obj\\",
+        "projectPath": "D:\\Users\\jakub.korban\\Documents\\GitHub\\PROG.BACK\\wsei-backend-lab\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "D:\\Users\\jakub.korban\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\jakub.korban\\Documents\\GitHub\\PROG.BACK\\wsei-backend-lab\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Kobbe\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "D:\\Users\\jakub.korban\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\RiderSolutions\\wsei-backend-lab\\ApplicationCore\\ApplicationCore.csproj": {
-                "projectPath": "D:\\RiderSolutions\\wsei-backend-lab\\ApplicationCore\\ApplicationCore.csproj"
+              "D:\\Users\\jakub.korban\\Documents\\GitHub\\PROG.BACK\\wsei-backend-lab\\ApplicationCore\\ApplicationCore.csproj": {
+                "projectPath": "D:\\Users\\jakub.korban\\Documents\\GitHub\\PROG.BACK\\wsei-backend-lab\\ApplicationCore\\ApplicationCore.csproj"
               }
             }
           }
@@ -89,6 +98,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -116,37 +130,39 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.406\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\RiderSolutions\\wsei-backend-lab\\UnitTest\\UnitTest.csproj": {
+    "D:\\Users\\jakub.korban\\Documents\\GitHub\\PROG.BACK\\wsei-backend-lab\\UnitTest\\UnitTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\RiderSolutions\\wsei-backend-lab\\UnitTest\\UnitTest.csproj",
+        "projectUniqueName": "D:\\Users\\jakub.korban\\Documents\\GitHub\\PROG.BACK\\wsei-backend-lab\\UnitTest\\UnitTest.csproj",
         "projectName": "UnitTest",
-        "projectPath": "D:\\RiderSolutions\\wsei-backend-lab\\UnitTest\\UnitTest.csproj",
-        "packagesPath": "C:\\Users\\Kobbe\\.nuget\\packages\\",
-        "outputPath": "D:\\RiderSolutions\\wsei-backend-lab\\UnitTest\\obj\\",
+        "projectPath": "D:\\Users\\jakub.korban\\Documents\\GitHub\\PROG.BACK\\wsei-backend-lab\\UnitTest\\UnitTest.csproj",
+        "packagesPath": "D:\\Users\\jakub.korban\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\jakub.korban\\Documents\\GitHub\\PROG.BACK\\wsei-backend-lab\\UnitTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Kobbe\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "D:\\Users\\jakub.korban\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\RiderSolutions\\wsei-backend-lab\\ApplicationCore\\ApplicationCore.csproj": {
-                "projectPath": "D:\\RiderSolutions\\wsei-backend-lab\\ApplicationCore\\ApplicationCore.csproj"
+              "D:\\Users\\jakub.korban\\Documents\\GitHub\\PROG.BACK\\wsei-backend-lab\\ApplicationCore\\ApplicationCore.csproj": {
+                "projectPath": "D:\\Users\\jakub.korban\\Documents\\GitHub\\PROG.BACK\\wsei-backend-lab\\ApplicationCore\\ApplicationCore.csproj"
               },
-              "D:\\RiderSolutions\\wsei-backend-lab\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "D:\\RiderSolutions\\wsei-backend-lab\\Infrastructure\\Infrastructure.csproj"
+              "D:\\Users\\jakub.korban\\Documents\\GitHub\\PROG.BACK\\wsei-backend-lab\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "D:\\Users\\jakub.korban\\Documents\\GitHub\\PROG.BACK\\wsei-backend-lab\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -155,6 +171,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -198,7 +219,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.406\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
