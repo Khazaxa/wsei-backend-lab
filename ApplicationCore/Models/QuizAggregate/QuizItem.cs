@@ -6,6 +6,7 @@ public class QuizItem: IIdentity<int>
 {
     public int Id { get; set; }
     public string Question { get; }
+    public List<string> Options { get; set; }
     public List<string> IncorrectAnswers { get; }
     public string CorrectAnswer { get;  }
 
