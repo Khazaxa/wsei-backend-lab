@@ -9,6 +9,7 @@ public class QuizItem: IIdentity<int>
     public List<string> Options { get; set; }
     public List<string> IncorrectAnswers { get; }
     public string CorrectAnswer { get;  }
+    public int Points { get; set; }
 
     public QuizItem(int id, string question, List<string> incorrectAnswers, string correctAnswer)
     {

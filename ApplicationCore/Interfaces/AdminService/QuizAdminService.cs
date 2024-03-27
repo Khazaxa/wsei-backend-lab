@@ -36,6 +36,27 @@ public class QuizAdminService:IQuizAdminService
     }
 
     public List<Quiz> FindAllQuizzes()
-    { return quizRepository.FindAll();
+    { 
+        return quizRepository.FindAll();
+    }
+
+    public object? FindQuizById(int id)
+    {
+        return quizRepository.FindById(id);
+    }
+
+    public void DeleteQuiz(int id)
+    {
+        quizRepository.RemoveById(id);
+    }
+
+    public object? FindQuizItemById(int itemId)
+    {
+        return itemRepository.FindById(itemId);
+    }
+
+    public void DeleteQuizItem(int itemId)
+    {
+        itemRepository.RemoveByItemId(itemId);
     }
 }

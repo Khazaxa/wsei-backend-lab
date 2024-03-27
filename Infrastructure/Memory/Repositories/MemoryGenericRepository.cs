@@ -75,4 +75,9 @@ public class MemoryGenericRepository<T, K>:IGenericRepository<T, K> where T: cla
     {
         return MemorySpecificationEvaluator<T>.GetQuery(_data.Values.AsQueryable(), specification);
     }
+
+    public void RemoveByItemId(int itemId)
+    {
+        _data.Remove((K)(object)itemId);
+    }
 }
